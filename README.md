@@ -1,2 +1,2 @@
-# yi233.github.io
-my blog
+# Yifei's Blog
+https://www.ikusa.org
